@@ -1,0 +1,45 @@
+
+h1 {
+  text-align: center;
+  color: indigo;
+}
+
+h3{
+  text-align: center;
+  color: indianred;
+}
+
+ img {
+  style: center;
+  width: 10%;
+  height: 15%;
+}
+
+strong{
+  color: midnightblue;
+  font-size: 20px;
+}
+
+p{
+  margin-left: 100px;
+  margin-right: 100px;
+  padding: 30px;
+  color: darkred;
+  line-height: 1.5;
+}
+
+
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+
+.clearfix{
+  overflow: auto;
+}
+
+body{
+  background-color: papayawhip;
+}
